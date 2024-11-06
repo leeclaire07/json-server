@@ -1,0 +1,14 @@
+{
+  "initTodos": [
+    {
+      "todo": "리액트 배우기",
+      "time": 7,
+      "id": "crypto.randomUUID()"
+    },
+    {
+      "todo": "프롭스 배우기",
+      "time": 8,
+      "id": "crypto.randomUUID()"
+    }
+  ]
+}
